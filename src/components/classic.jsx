@@ -4,7 +4,7 @@ const Classic =  function(props) {
     return(
         <div className="card">
             <header>
-                <h3>Classic Ad</h3>
+                <h3>Classic Ad </h3>
             </header>
             <div className="pricing">
                 <span className="unit-price">$</span>

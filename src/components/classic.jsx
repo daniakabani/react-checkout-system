@@ -10,7 +10,6 @@ const Classic =  function(props) {
                 <span className="unit-price">$</span>
                 269.99
                 <span className="period">/month</span>
-
             </div>
             <article>
                 <p>What will you get?</p>
